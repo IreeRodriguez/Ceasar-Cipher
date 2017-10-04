@@ -5,3 +5,5 @@ Pseudocodigo
 
 -usando la formula para cifrar o descifrar se ira cambiando caracter por caractr con su codigo ascii.
 -devuelve en la web el texto ingresado cifrado o descifrado.
+
+![alt text](https://raw.githubusercontent.com/IreeRodriguez/Ceasar-Cipher/master/flowchart.jpg)
